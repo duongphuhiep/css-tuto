@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+  padding: 0;
+  margin: 0;
+  background: gray;
+}
+
+.wrapper {
+  font-size: 1.6em;
+  background: white;
+  margin: auto;
+  width: 90%;
+}
+
+header {
+  background: brown;
+  color: white;
+  padding: 2em;
+  text-align: right;
+  font-family: 'Permanent Marker';
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+header h1 {
+  padding: 0px;
+  margin:0px;
+}
+
+.art-img {
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+main {
+  float: left;
+  width: 70%;
+  padding: 2em;
+}
+
+aside {
+  float: right;
+  width: 15%;
+  background: sandybrown;
+  margin-bottom: -5000px;
+  padding-bottom: 5000px;
+}
+
+
+.left-nav ul, aside ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.left-nav li, aside li {
+  padding: 5px;
+  border-bottom: solid 1px brown;
+  line-height: 1.5em;
+}
+
+.wrapper {
+  overflow: hidden;
+}
+
+footer {
+  min-height: 50px;
+  background: brown;
+  clear: both;
+  width: 90%;
+  margin: auto;
+}
+
+.left-nav {
+  float: left;
+  width: 15%;
+  background: sandybrown;
+  margin-bottom: -5000px;
+  padding-bottom: 5000px;
+}
+
+h2 {
+  padding: 0 0 10px 0;
+  margin: 0;
+}
+
+article ul {
+  list-style-image: url("http://placehold.it/5x5");
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+
+
+
