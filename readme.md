@@ -1,4 +1,4 @@
-1aSS practices no-kidding Battle field
+1aSS practices, no-kidding, rebase from here, Battle field
 
 Let style some static HTML! 
 
