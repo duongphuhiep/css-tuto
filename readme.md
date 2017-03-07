@@ -1,4 +1,4 @@
-CSS practices Battle field
+1SS practices Battle field
 
 Let style some static HTML! 
 
